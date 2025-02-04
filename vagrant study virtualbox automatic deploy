@@ -7,3 +7,5 @@ ls
 vagrant up
 vagrant global-status 
 vagrant ssh 
+vagrant destroy 
+vagrant up  -  needed to be at the folder ubuntu or centos
