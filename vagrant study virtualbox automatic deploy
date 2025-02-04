@@ -3,6 +3,7 @@ mkdir centos
 mkdir ubuntu
 go to https://portal.cloud.hashicorp.com/vagrant/discover
 vagrant init ubuntu/trusty64 --box-version 20191107.0.0
+ls 
 vagrant up
 vagrant global-status 
 vagrant ssh 
